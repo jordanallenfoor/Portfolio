@@ -28,7 +28,21 @@
 
 }
 
-.header ul li a :hover {
-    background-color: #211b4385;
+.header ul li a:hover {
+    background-color: darkgray;
 
+}
+
+h1 {
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+h2 {
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    color: white;
 }
