@@ -1,6 +1,7 @@
 .header {
     width:100%;
-    background-color: rgba(0,0,0,.2)
+    background-color: rgba(0,0,0,.2);
+
 
 }
 
@@ -32,17 +33,35 @@
     background-color: darkgray;
 
 }
-
 h1 {
-    text-align: left;
+    text-align: center;
+    margin-top: 50px;
     font-size: 40px;
-    font-family: 'Raleway', sans-serif;
-    color: white;
+    font-family: 'Raleway' , sans-serif;
+}
+h2 {
+    text-align: center;
+    margin-top: 400px;
+    color: black;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'Raleway' , sans-serif;
 }
 
-h2 {
-    text-align: left;
-    font-size: 20px;
-    font-family: 'Raleway', sans-serif;
-    color: white;
+
+footer {
+    text-align: center;
+    margin-top: 80%;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    height: 350px;
+    width: auto;
+
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
 }
